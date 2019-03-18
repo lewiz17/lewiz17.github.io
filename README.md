@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a688cfdf-f618-42da-a9ea-68bcec00031d/deploy-status)](https://app.netlify.com/sites/eapresume/deploys)
+
 <p align="center">
     <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://lewiz17.github.io/">Demo</a></h2>
 </p>
